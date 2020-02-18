@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "codbar": "7894900531305" },
+    { "id": 2, "codbar": "7894900531008" },
+    { "id": 3, "codbar": "7894900530001" }
   ],
   "profile": {
     "name": "typicode"
