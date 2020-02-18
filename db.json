@@ -5,4 +5,7 @@
     { "id": 3, "codbar": "7894900530001", "descricao": "AGUA MINERAL S/GAS 500ML", "valor": "2,49" },
     { "id": 4, "codbar": "7894900530032", "descricao": "AGUA MINERAL PET 1,5L", "valor": "3,89" }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 } 
