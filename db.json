@@ -1,9 +1,8 @@
 {
   "posts": [
-    { "id": 1, "CODIGOBAR": "7894900531305", "DESCRICAO": "AGUA MINERAL C/GAS 350ML", "VALOR": "1,99" },
-    { "id": 2, "CODIGOBAR": "7894900531008", "DESCRICAO": "AGUA MINERAL C/GAS 500ML", "VALOR": "2,99" },
-    { "id": 3, "CODIGOBAR": "7894900530001", "DESCRICAO": "AGUA MINERAL S/GAS 500ML", "VALOR": "2,49" },
-    { "id": 4, "CODIGOBAR": "7894900530032", "DESCRICAO": "AGUA MINERAL PET 1,5L", "VALOR": "3,89" }
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "profile": {
     "name": "typicode"
