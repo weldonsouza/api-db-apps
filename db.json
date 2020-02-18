@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "codbar": "7894900531305" },
-    { "id": 2, "codbar": "7894900531008" },
-    { "id": 3, "codbar": "7894900530001" }
+    { "id": 1, "codbar": "7894900531305", "descricao": "AGUA MINERAL C/GAS 350ML" },
+    { "id": 2, "codbar": "7894900531008", "descricao": "AGUA MINERAL C/GAS 500ML" },
+    { "id": 3, "codbar": "7894900530001", "descricao": "AGUA MINERAL S/GAS 500ML" }
   ],
   "profile": {
     "name": "typicode"
