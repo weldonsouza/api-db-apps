@@ -4,14 +4,14 @@
       "description": "Aplicativo de viagens",
       "id": 1,
       "name": "travel_record",
-      "status": "production",
+      "status": "development",
       "version": "1.0.0"
     },
     {
       "description": "Controle de refeições",
       "id": 2,
       "name": "meal_control",
-      "status": "development",
+      "status": "production",
       "version": "1.0.0"
     }
   ],
