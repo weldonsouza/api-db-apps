@@ -13,6 +13,13 @@
       "name": "meal_control",
       "status": "production",
       "version": "1.0.0"
+    },
+    {
+      "description": "Cria App",
+      "id": 3,
+      "name": "cria_app",
+      "status": "production",
+      "version": "1.0.0"
     }
   ],
   "posts": [
