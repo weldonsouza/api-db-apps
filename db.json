@@ -14,7 +14,7 @@
       "name": "meal_control",
       "status": "production",
       "version": "1.0.0",
-      "url": "https://lifez.com.br"
+      "url": ""
     },
     {
       "description": "Cria App",
@@ -22,7 +22,7 @@
       "name": "cria_app",
       "status": "production",
       "version": "1.0.0",
-      "url": ""
+      "url": "https://lifez.com.br"
     }
   ],
   "posts": [
