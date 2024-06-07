@@ -7,6 +7,22 @@
       "status": "development",
       "version": "1.0.13",
       "url": ""
+    },
+    {
+      "description": "Controle de refeições",
+      "id": 2,
+      "name": "meal_control",
+      "status": "production",
+      "version": "1.0.0",
+      "url": ""
+    },
+    {
+      "description": "Cria App",
+      "id": 3,
+      "name": "cria_app",
+      "status": "production",
+      "version": "1.0.0",
+      "url": "https://lifez.com.br/"
     }
   ],
   "company": [
