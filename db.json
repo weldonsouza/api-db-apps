@@ -31,34 +31,34 @@
       "name": "company01",
       "branch": "0101",
       "api_base": "https://www.google.com",
-      "apis": [
-         "api_01": "https://www.google.com", 
-         "api_02": ""
-      ],
+      "apis": {
+         "url_01": "https://www.google.com", 
+         "url_02": ""
+      },
     },
     {
       "id": 2,
       "name": "company02",
       "branch": "0101",
       "api_base": "https://www.google.com",
-      "apis": [
-         "api_01": "https://www.google.com", 
-         "api_02": ""
-      ],
+      "apis": {
+         "url_01": "https://www.google.com", 
+         "url_02": ""
+      },
     }
   ],
   "users": [
     {
       "id": 1,
       "name": "Ana",
-      "idCompany": "1" 
-      "branch": "0101",
+      "idCompany": "1",
+      "branch": "0101"
     },
     {
       "id": 2,
       "name": "Bia",
-      "idCompany": "2" 
-      "branch": "0101",
+      "idCompany": "2",
+      "branch": "0101"
     }
   ], 
   "profile": {
