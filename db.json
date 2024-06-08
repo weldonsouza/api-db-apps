@@ -52,13 +52,19 @@
       "id": 1,
       "name": "Ana",
       "idCompany": "1",
-      "branch": "0101"
+      "branch": "0101",
+      "login": "ana01",
+      "password": "123456", 
+      "retreat": "barra nova"
     },
     {
       "id": 2,
       "name": "Bia",
       "idCompany": "2",
-      "branch": "0101"
+      "branch": "0101",
+      "login": "bia01",
+      "password": "123456", 
+      "retreat": "sem fim"
     }
   ], 
   "profile": {
