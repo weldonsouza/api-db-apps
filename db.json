@@ -22,51 +22,13 @@
       "name": "cria_app",
       "status": "production",
       "version": "1.0.0",
-      "url": "https://lifez.com.br/"
-    }
-  ],
-  "company": [
-    {
-      "id": 1,
-      "name": "company01",
-      "branch": "0101",
-      "api_base": "https://www.google.com",
-      "apis": {
-         "url_01": "https://www.google.com", 
-         "url_02": ""
-      }
-    },
-    {
-      "id": 2,
-      "name": "company02",
-      "branch": "0101",
-      "api_base": "https://www.google.com",
-      "apis": {
-         "url_01": "https://www.google.com", 
-         "url_02": ""
+      "url": "https://lifez.com.br/",
+      "isEnableLogin": "false", 
+      "menu": {
+         "home": ""
       }
     }
   ],
-  "users": [
-    {
-      "id": 1,
-      "name": "Ana",
-      "idCompany": 1,
-      "branch": "0101",
-      "login": "ana01",
-      "password": "123456", 
-      "retreat": "barra nova"
-    },
-    {
-      "id": 2,
-      "name": "Bia",
-      "idCompany": 2,
-      "branch": "0101",
-      "login": "bia01",
-      "password": "123456", 
-      "retreat": "sem fim"
-    }
-  ], 
   "profile": {
     "name": "typicode"
   }
