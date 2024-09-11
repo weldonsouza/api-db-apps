@@ -1,29 +1,32 @@
 {
    "apps": [
     {
-      "description": "Aplicativo de viagens",
       "id": 1,
       "name": "travel_record",
+      "description": "Aplicativo de viagens",
       "status": "development",
       "version": "1.0.17",
       "url": ""
     },
     {
-      "description": "Controle de refeições",
       "id": 2,
       "name": "meal_control",
+      "description": "Controle de refeições",
       "status": "production",
       "version": "1.0.0",
       "url": ""
     },
     {
-      "description": "Cria App",
       "id": 3,
       "name": "cria_app",
+      "description": "Cria App",
       "status": "production",
       "version": "1.0.0",
       "url": "https://lifez.com.br/",
       "isEnableLogin": "false", 
+      "isEnableLogin": false, 
+      "isBottomNavVisible": true,
+      "evaluateJavascript": "",
       "menu": {
          "home": ""
       }
