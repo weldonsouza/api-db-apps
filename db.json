@@ -22,13 +22,37 @@
       "description": "Cria App",
       "status": "production",
       "version": "1.0.0",
-      "url": "https://lifez.com.br/",
-      "isEnableLogin": "false", 
-      "isEnableLogin": false, 
+      "url": "https://lifez.com.br/"
+    },
+    {
+      "id": 4,
+      "name": "alugue_ja",
+      "description": "Alugue Já",
+      "status": "development",
+      "version": "1.0.0",
+      "url": "https://www.locmais.online/",
+      "isEnableLogin": false,
       "isBottomNavVisible": true,
       "evaluateJavascript": "",
-      "menu": {
-         "home": ""
+      "menu": [
+        [
+          {
+            "url": "https://www.locmais.online/",
+            "image": "botao-home",
+          },
+          {
+            "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao/qualquer-cidade",
+            "image": "pesquisa",
+          },
+          {
+            "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao",
+            "image": "filtro",
+          },
+          {
+            "url": "https://www.locmais.online/contato",
+            "image": "contato",
+          },
+        ]
       }
     }
   ],
