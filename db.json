@@ -35,25 +35,23 @@
       "isBottomNavVisible": true,
       "evaluateJavascript": "",
       "menu": [
-        [
-          {
-            "url": "https://www.locmais.online/",
-            "image": "botao-home",
-          },
-          {
-            "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao/qualquer-cidade",
-            "image": "pesquisa",
-          },
-          {
-            "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao",
-            "image": "filtro",
-          },
-          {
-            "url": "https://www.locmais.online/contato",
-            "image": "contato",
-          },
-        ]
-      }
+        {
+          "url": "https://www.locmais.online/",
+          "image": "botao-home"
+        },
+        {
+          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao/qualquer-cidade",
+          "image": "pesquisa"
+        },
+        {
+          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao",
+          "image": "filtro"
+        },
+        {
+          "url": "https://www.locmais.online/contato",
+          "image": "contato"
+        }
+      ]
     }
   ],
   "profile": {
