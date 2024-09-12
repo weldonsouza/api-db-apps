@@ -37,18 +37,22 @@
       "menu": [
         {
           "url": "https://www.locmais.online/",
+          "label": "",
           "image": "botao-home"
         },
         {
           "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao/qualquer-cidade",
+          "label": "",
           "image": "pesquisa"
         },
         {
           "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao",
+          "label": "",
           "image": "filtro"
         },
         {
           "url": "https://www.locmais.online/contato",
+          "label": "",
           "image": "contato"
         }
       ]
