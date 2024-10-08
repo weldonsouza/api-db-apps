@@ -65,9 +65,30 @@
       "version": "1.0.0",
       "url": "https://smartflixpro.com/br",
       "isEnableLogin": false,
-      "isBottomNavVisible": true,
+      "isBottomNavVisible": false,
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
-      "menu": []
+      "menu": [
+        {
+          "url": "https://smartflixpro.com/br",
+          "label": "Home",
+          "image": "botao-home"
+        },
+        {
+          "url": "https://smartflixpro.com/br",
+          "label": "Pesquisar",
+          "image": "pesquisa"
+        },
+        {
+          "url": "https://smartflixpro.com/br",
+          "label": "Todos",
+          "image": "filtro"
+        },
+        {
+          "url": "https://smartflixpro.com/br",
+          "label": "Suporte",
+          "image": "contato"
+        }
+      ]
     }
   ],
   "profile": {
