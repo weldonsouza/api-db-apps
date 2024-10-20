@@ -89,6 +89,39 @@
           "image": "contato"
         }
       ]
+    },
+    {
+      "id": 5,
+      "name": "lojasintimos",
+      "description": "lojasintimos",
+      "status": "development",
+      "version": "1.0.26",
+      "url": "https://lojasintimos.com.br",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true,
+      "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+      "menu": [
+        {
+          "url": "https://smartflixpro.com/br",
+          "label": "Home",
+          "image": "botao-home"
+        },
+        {
+          "url": "https://smartflixpro.com/br",
+          "label": "Pesquisar",
+          "image": "pesquisa"
+        },
+        {
+          "url": "https://smartflixpro.com/br",
+          "label": "Todos",
+          "image": "filtro"
+        },
+        {
+          "url": "https://smartflixpro.com/br",
+          "label": "Suporte",
+          "image": "contato"
+        }
+      ]
     }
   ],
   "profile": {
