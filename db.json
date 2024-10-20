@@ -102,22 +102,22 @@
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
       "menu": [
         {
-          "url": "https://smartflixpro.com/br",
+          "url": "https://lojasintimos.com.br",
           "label": "Home",
           "image": "botao-home"
         },
         {
-          "url": "https://smartflixpro.com/br",
-          "label": "Pesquisar",
-          "image": "pesquisa"
+          "url": "https://linktr.ee/lojasintimos.com.br?utm_source=linktree_profile_share&ltsid=778d59bc-ebd9-46ca-98b3-650cbfd86323",
+          "label": "Link",
+          "image": "botao-adicionar"
         },
         {
-          "url": "https://smartflixpro.com/br",
+          "url": "https://lojasintimos.com.br",
           "label": "Todos",
           "image": "filtro"
         },
         {
-          "url": "https://smartflixpro.com/br",
+          "url": "https://wa.me/5582994099926?text=Olá,%20gostaria%20de%20mais%20informações!",
           "label": "Suporte",
           "image": "contato"
         }
