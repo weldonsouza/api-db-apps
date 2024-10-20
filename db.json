@@ -107,9 +107,9 @@
           "image": "botao-home"
         },
         {
-          "url": "https://linktr.ee/lojasintimos.com.br?utm_source=linktree_profile_share&ltsid=778d59bc-ebd9-46ca-98b3-650cbfd86323",
-          "label": "Link",
-          "image": "botao-adicionar"
+          "url": "https://www.instagram.com/lojasintimos/",
+          "label": "Sacola",
+          "image": "sacola"
         },
         {
           "url": "https://lojasintimos.com.br",
@@ -117,7 +117,7 @@
           "image": "filtro"
         },
         {
-          "url": "https://wa.me/5582994099926?text=Olá,%20gostaria%20de%20mais%20informações!",
+          "url": "whatsapp://send?phone=5582994099926&text=Olá,%20gostaria%20de%20mais%20informações!",
           "label": "Suporte",
           "image": "contato"
         }
