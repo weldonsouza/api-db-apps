@@ -159,6 +159,41 @@
          "image": "contato"
        }
      ]
+   },
+   {
+     "id": 7,
+     "name": "inovazap",
+     "description": "inovazap",
+     "status": "development",
+     "version": "1.0.1",
+     "url": "https://app.inovazap.com.br/login",
+     "isEnableLogin": false,
+     "isBottomNavVisible": true,
+     "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+     "menu": [
+       {
+         "url": "https://lojasintimos.com.br",
+         "label": "Home",
+         "image": "botao-home"
+       },
+       {
+         "url": "instagram://user?username=lojasintimos", 
+         "target": "_blank",
+         "label": "Sacola",
+         "image": "sacola"
+       },
+       {
+         "url": "https://www.google.com/maps/search/?api=1&query=-9.40259759,-35.5099785",
+         "label": "Mapa",
+         "image": "localizacao"
+       },
+       {
+         "url":"https://api.whatsapp.com/send?phone=5582991939643&text=%F0%9F%91%8B%20Ol%C3%A1%2C%20venho%20de%20https%3A%2F%2Fjmfood.ola.click%20%0AEu%20quero%20fazer%20o%20pr%C3%B3ximo%20pedido%3A%0A",
+         "target": "_blank",
+         "label": "Suporte",
+         "image": "contato"
+       }
+     ]
    }
   ],
   "profile": {
