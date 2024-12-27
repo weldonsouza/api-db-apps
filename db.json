@@ -203,7 +203,7 @@
      "version": "1.0.1",
      "url": "https://www.klubs.com.br/",
      "isEnableLogin": false,
-     "isBottomNavVisible": false,
+     "isBottomNavVisible": true,
      "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
      "menu": [
        {
