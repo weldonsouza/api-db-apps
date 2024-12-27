@@ -219,8 +219,8 @@
        },
        {
          "url": "https://www.google.com/maps/search/?api=1&query=-9.40259759,-35.5099785",
-         "label": "Mapa",
-         "image": "localizacao"
+         "label": "Filtro",
+         "image": "filtro"
        },
        {
          "url":"https://api.whatsapp.com/send?phone=5582991939643&text=%F0%9F%91%8B%20Ol%C3%A1%2C%20venho%20de%20https%3A%2F%2Fjmfood.ola.click%20%0AEu%20quero%20fazer%20o%20pr%C3%B3ximo%20pedido%3A%0A",
