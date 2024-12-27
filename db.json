@@ -205,30 +205,7 @@
      "isEnableLogin": false,
      "isBottomNavVisible": false,
      "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
-     "menu": [
-       {
-         "url": "https://www.klubs.com.br/",
-         "label": "Home",
-         "image": "botao-home"
-       },
-       {
-         "url": "https://seguro.klubs.com.br/minha-conta/login", 
-         "target": "_blank",
-         "label": "Sacola",
-         "image": "sacola"
-       },
-       {
-         "url": "https://www.klubs.com.br/perfumes-masculinos?sort_by=best_sellers",
-         "label": "Filtro",
-         "image": "filtro"
-       },
-       {
-         "url":"https://www.klubs.com.br/atendimento/contato",
-         "target": "_blank",
-         "label": "Suporte",
-         "image": "contato"
-       }
-     ]
+     "menu": []
    }
   ],
   "profile": {
