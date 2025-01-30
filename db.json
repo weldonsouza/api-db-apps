@@ -241,7 +241,19 @@
     "image": "url",
     "isEnableLogin": false,
     "isBottomNavVisible": true
-    }
+    },
+   {
+    "id": 10,
+    "name": "meusservico",
+    "description": "meusservico",
+    "status": "development",
+    "version": "1.0.1",
+    "title": "Yann Pinto",
+    "phone": "82996703421",
+    "image": "url",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true
+    },
   ],
   "profile": {
     "name": "typicode"
