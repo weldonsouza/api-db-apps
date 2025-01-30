@@ -241,8 +241,8 @@
     "image": "url",
     "isEnableLogin": false,
     "isBottomNavVisible": true
-  }
- ],
+  },
+ 
  "profile": {
    "name": "typicode"
  }
