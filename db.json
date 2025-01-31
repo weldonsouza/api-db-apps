@@ -239,7 +239,7 @@
   "title": "Luiz Anselmo",
   "phone": "82996703421",
   "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-  "category": "Encanador",  // Novo campo de categoria
+  "category": "Encanador",
   "isEnableLogin": false,
   "isBottomNavVisible": true
 },
@@ -252,7 +252,7 @@
   "title": "Yann Pinto",
   "phone": "82996703421",
   "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-  "category": "Pedreiro",  // Novo campo de categoria
+  "category": "Pedreiro",
   "isEnableLogin": false,
   "isBottomNavVisible": true
 }
