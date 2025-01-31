@@ -1,315 +1,315 @@
 {
-   "apps": [
-    {
-      "id": 1,
-      "name": "travel_record",
-      "description": "Aplicativo de viagens",
-      "status": "development",
-      "version": "1.0.17",
-      "url": ""
-    },
-    {
-      "id": 2,
-      "name": "meal_control",
-      "description": "Controle de refeições",
-      "status": "production",
-      "version": "1.0.0",
-      "url": ""
-    },
-    {
-      "id": 3,
-      "name": "cria_app",
-      "description": "Cria App",
-      "status": "production",
-      "version": "1.0.0",
-      "url": "https://www.klubs.com.br/"
-    },
-    {
-      "id": 4,
-      "name": "alugue_ja",
-      "description": "Alugue Já",
-      "status": "development",
-      "version": "1.0.0",
-      "url": "https://www.locmais.online/",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true,
-      "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
-      "menu": [
-        {
-          "url": "https://www.locmais.online/",
-          "label": "Home",
-          "image": "botao-home"
-        },
-        {
-          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao/qualquer-cidade",
-          "label": "Pesquisar",
-          "image": "pesquisa"
-        },
-        {
-          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao",
-          "label": "Todos",
-          "image": "filtro"
-        },
-        {
-          "url": "https://www.locmais.online/contato",
-          "label": "Suporte",
-          "image": "contato"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "smartpro",
-      "description": "smartpro",
-      "status": "development",
-      "version": "1.0.0",
-      "url": "https://smartflixpro.com/br",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true,
-      "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
-      "menu": [
-        {
-          "url": "https://smartflixpro.com/br",
-          "label": "Home",
-          "image": "botao-home"
-        },
-        {
-          "url": "https://smartflixpro.com/br",
-          "label": "Pesquisar",
-          "image": "pesquisa"
-        },
-        {
-          "url": "https://smartflixpro.com/br",
-          "label": "Todos",
-          "image": "filtro"
-        },
-        {
-          "url": "https://smartflixpro.com/br",
-          "label": "Suporte",
-          "image": "contato"
-        }
-      ]
-    },
-   {
-     "id": 6,
-     "name": "lojasintimos",
-     "description": "lojasintimos",
-     "status": "development",
-     "version": "1.0.26",
-     "url": "https://lojasintimos.com.br",
-     "isEnableLogin": false,
-     "isBottomNavVisible": true,
-     "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
-     "menu": [
-       {
-         "url": "https://lojasintimos.com.br",
-         "label": "Home",
-         "image": "botao-home"
-       },
-       {
-         "url": "instagram://user?username=lojasintimos", 
-         "target": "_blank",
-         "label": "Sacola",
-         "image": "sacola"
-       },
-       {
-         "url": "https://lojasintimos.com.br",
-         "label": "Todos",
-         "image": "filtro"
-       },
-       {
-         "url":"whatsapp://send?phone=5582994099926&text=Olá,%20gostaria%20de%20mais%20informações!",
-         "target": "_blank",
-         "label": "Suporte",
-         "image": "contato"
-       }
-     ]
-   },
-   {
-     "id": 7,
-     "name": "jmfood",
-     "description": "jmfood",
-     "status": "development",
-     "version": "1.0.1",
-     "url": "https://jmfood.ola.click/products",
-     "isEnableLogin": false,
-     "isBottomNavVisible": true,
-     "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
-     "menu": [
-       {
-         "url": "https://lojasintimos.com.br",
-         "label": "Home",
-         "image": "botao-home"
-       },
-       {
-         "url": "instagram://user?username=lojasintimos", 
-         "target": "_blank",
-         "label": "Sacola",
-         "image": "sacola"
-       },
-       {
-         "url": "https://www.google.com/maps/search/?api=1&query=-9.40259759,-35.5099785",
-         "label": "Mapa",
-         "image": "localizacao"
-       },
-       {
-         "url":"https://api.whatsapp.com/send?phone=5582991939643&text=%F0%9F%91%8B%20Ol%C3%A1%2C%20venho%20de%20https%3A%2F%2Fjmfood.ola.click%20%0AEu%20quero%20fazer%20o%20pr%C3%B3ximo%20pedido%3A%0A",
-         "target": "_blank",
-         "label": "Suporte",
-         "image": "contato"
-       }
-     ]
-   },
-   {
-     "id": 7,
-     "name": "inovazap",
-     "description": "inovazap",
-     "status": "development",
-     "version": "1.0.1",
-     "url": "https://app.inovazap.com.br/login",
-     "isEnableLogin": false,
-     "isBottomNavVisible": true,
-     "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
-     "menu": [
-       {
-         "url": "https://lojasintimos.com.br",
-         "label": "Home",
-         "image": "botao-home"
-       },
-       {
-         "url": "instagram://user?username=lojasintimos", 
-         "target": "_blank",
-         "label": "Sacola",
-         "image": "sacola"
-       },
-       {
-         "url": "https://www.google.com/maps/search/?api=1&query=-9.40259759,-35.5099785",
-         "label": "Mapa",
-         "image": "localizacao"
-       },
-       {
-         "url":"https://api.whatsapp.com/send?phone=5582991939643&text=%F0%9F%91%8B%20Ol%C3%A1%2C%20venho%20de%20https%3A%2F%2Fjmfood.ola.click%20%0AEu%20quero%20fazer%20o%20pr%C3%B3ximo%20pedido%3A%0A",
-         "target": "_blank",
-         "label": "Suporte",
-         "image": "contato"
-       }
-     ]
-   },
-    {
-     "id": 8,
-     "name": "klubs",
-     "description": "klubs",
-     "status": "development",
-     "version": "1.0.1",
-     "url": "https://www.klubs.com.br/",
-     "isEnableLogin": false,
-     "isBottomNavVisible": true,
-     "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
-     "menu": [
-       {
-         "url": "https://www.klubs.com.br/",
-         "label": "Home",
-         "image": "botao-home"
-       },
-       {
-         "url": "https://seguro.klubs.com.br/minha-conta/login", 
-         "target": "_blank",
-         "label": "Sacola",
-         "image": "sacola"
-       },
-       {
-         "url": "https://www.klubs.com.br/perfumes-masculinos?sort_by=best_sellers",
-         "label": "Filtro",
-         "image": "filtro"
-       },
-       {
-         "url":"https://www.klubs.com.br/atendimento/contato",
-         "target": "_blank",
-         "label": "Suporte",
-         "image": "contato"
-       }
-     ]
-   },
+"apps": [
   {
-      "id": 9,
-      "name": "meusservico",
-      "description": "meusservico",
-      "status": "development",
-      "version": "1.0.1",
-      "title": "Ninho WF Planejados",
-      "phone": "82993985830",
-      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-      "category": "Marceneiro",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true
-    },
-    {
-      "id": 10,
-      "name": "meusservico",
-      "description": "meusservico",
-      "status": "development",
-      "version": "1.0.1",
-      "title": "Izaque",
-      "phone": "82996897133",
-      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-      "category": "Gesseiro",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true
-    },
-    {
-      "id": 11,
-      "name": "meusservico",
-      "description": "meusservico",
-      "status": "development",
-      "version": "1.0.1",
-      "title": "Val",
-      "phone": "82993890008",
-      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-      "category": "Serviços Gerais",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true
-    },
-    {
-      "id": 12,
-      "name": "meusservico",
-      "description": "meusservico",
-      "status": "development",
-      "version": "1.0.1",
-      "title": "Núbia",
-      "phone": "82982237086",
-      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-      "category": "Faxineira",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true
-    },
-    {
-      "id": 13,
-      "name": "meusservico",
-      "description": "meusservico",
-      "status": "development",
-      "version": "1.0.1",
-      "title": "Alisson",
-      "phone": "82994148971",
-      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-      "category": "Ar-condicionado",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true
-    },
-    {
-      "id": 14,
-      "name": "meusservico",
-      "description": "meusservico",
-      "status": "development",
-      "version": "1.0.1",
-      "title": "Ary Pedro",
-      "phone": "82999174016",
-      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-      "category": "Social Mídia",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+    "id": 1,
+    "name": "travel_record",
+    "description": "Aplicativo de viagens",
+    "status": "development",
+    "version": "1.0.17",
+    "url": ""
+  },
+  {
+    "id": 2,
+    "name": "meal_control",
+    "description": "Controle de refeições",
+    "status": "production",
+    "version": "1.0.0",
+    "url": ""
+  },
+  {
+    "id": 3,
+    "name": "cria_app",
+    "description": "Cria App",
+    "status": "production",
+    "version": "1.0.0",
+    "url": "https://www.klubs.com.br/"
+  },
+  {
+    "id": 4,
+    "name": "alugue_ja",
+    "description": "Alugue Já",
+    "status": "development",
+    "version": "1.0.0",
+    "url": "https://www.locmais.online/",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true,
+    "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+    "menu": [
+      {
+        "url": "https://www.locmais.online/",
+        "label": "Home",
+        "image": "botao-home"
+      },
+      {
+        "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao/qualquer-cidade",
+        "label": "Pesquisar",
+        "image": "pesquisa"
+      },
+      {
+        "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao",
+        "label": "Todos",
+        "image": "filtro"
+      },
+      {
+        "url": "https://www.locmais.online/contato",
+        "label": "Suporte",
+        "image": "contato"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "smartpro",
+    "description": "smartpro",
+    "status": "development",
+    "version": "1.0.0",
+    "url": "https://smartflixpro.com/br",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true,
+    "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+    "menu": [
+      {
+        "url": "https://smartflixpro.com/br",
+        "label": "Home",
+        "image": "botao-home"
+      },
+      {
+        "url": "https://smartflixpro.com/br",
+        "label": "Pesquisar",
+        "image": "pesquisa"
+      },
+      {
+        "url": "https://smartflixpro.com/br",
+        "label": "Todos",
+        "image": "filtro"
+      },
+      {
+        "url": "https://smartflixpro.com/br",
+        "label": "Suporte",
+        "image": "contato"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "lojasintimos",
+    "description": "lojasintimos",
+    "status": "development",
+    "version": "1.0.26",
+    "url": "https://lojasintimos.com.br",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true,
+    "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+    "menu": [
+      {
+        "url": "https://lojasintimos.com.br",
+        "label": "Home",
+        "image": "botao-home"
+      },
+      {
+        "url": "instagram://user?username=lojasintimos",
+        "target": "_blank",
+        "label": "Sacola",
+        "image": "sacola"
+      },
+      {
+        "url": "https://lojasintimos.com.br",
+        "label": "Todos",
+        "image": "filtro"
+      },
+      {
+        "url": "whatsapp://send?phone=5582994099926&text=Olá,%20gostaria%20de%20mais%20informações!",
+        "target": "_blank",
+        "label": "Suporte",
+        "image": "contato"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "jmfood",
+    "description": "jmfood",
+    "status": "development",
+    "version": "1.0.1",
+    "url": "https://jmfood.ola.click/products",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true,
+    "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+    "menu": [
+      {
+        "url": "https://lojasintimos.com.br",
+        "label": "Home",
+        "image": "botao-home"
+      },
+      {
+        "url": "instagram://user?username=lojasintimos",
+        "target": "_blank",
+        "label": "Sacola",
+        "image": "sacola"
+      },
+      {
+        "url": "https://www.google.com/maps/search/?api=1&query=-9.40259759,-35.5099785",
+        "label": "Mapa",
+        "image": "localizacao"
+      },
+      {
+        "url": "https://api.whatsapp.com/send?phone=5582991939643&text=%F0%9F%91%8B%20Ol%C3%A1%2C%20venho%20de%20https%3A%2F%2Fjmfood.ola.click%20%0AEu%20quero%20fazer%20o%20pr%C3%B3ximo%20pedido%3A%0A",
+        "target": "_blank",
+        "label": "Suporte",
+        "image": "contato"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "inovazap",
+    "description": "inovazap",
+    "status": "development",
+    "version": "1.0.1",
+    "url": "https://app.inovazap.com.br/login",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true,
+    "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+    "menu": [
+      {
+        "url": "https://lojasintimos.com.br",
+        "label": "Home",
+        "image": "botao-home"
+      },
+      {
+        "url": "instagram://user?username=lojasintimos",
+        "target": "_blank",
+        "label": "Sacola",
+        "image": "sacola"
+      },
+      {
+        "url": "https://www.google.com/maps/search/?api=1&query=-9.40259759,-35.5099785",
+        "label": "Mapa",
+        "image": "localizacao"
+      },
+      {
+        "url": "https://api.whatsapp.com/send?phone=5582991939643&text=%F0%9F%91%8B%20Ol%C3%A1%2C%20venho%20de%20https%3A%2F%2Fjmfood.ola.click%20%0AEu%20quero%20fazer%20o%20pr%C3%B3ximo%20pedido%3A%0A",
+        "target": "_blank",
+        "label": "Suporte",
+        "image": "contato"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "klubs",
+    "description": "klubs",
+    "status": "development",
+    "version": "1.0.1",
+    "url": "https://www.klubs.com.br/",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true,
+    "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+    "menu": [
+      {
+        "url": "https://www.klubs.com.br/",
+        "label": "Home",
+        "image": "botao-home"
+      },
+      {
+        "url": "https://seguro.klubs.com.br/minha-conta/login",
+        "target": "_blank",
+        "label": "Sacola",
+        "image": "sacola"
+      },
+      {
+        "url": "https://www.klubs.com.br/perfumes-masculinos?sort_by=best_sellers",
+        "label": "Filtro",
+        "image": "filtro"
+      },
+      {
+        "url": "https://www.klubs.com.br/atendimento/contato",
+        "target": "_blank",
+        "label": "Suporte",
+        "image": "contato"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "meusservico",
+    "description": "meusservico",
+    "status": "development",
+    "version": "1.0.1",
+    "title": "Ninho WF Planejados",
+    "phone": "82993985830",
+    "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+    "category": "Marceneiro",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true
+  },
+  {
+    "id": 10,
+    "name": "meusservico",
+    "description": "meusservico",
+    "status": "development",
+    "version": "1.0.1",
+    "title": "Izaque",
+    "phone": "82996897133",
+    "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+    "category": "Gesseiro",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true
+  },
+  {
+    "id": 11,
+    "name": "meusservico",
+    "description": "meusservico",
+    "status": "development",
+    "version": "1.0.1",
+    "title": "Val",
+    "phone": "82993890008",
+    "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+    "category": "Serviços Gerais",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true
+  },
+  {
+    "id": 12,
+    "name": "meusservico",
+    "description": "meusservico",
+    "status": "development",
+    "version": "1.0.1",
+    "title": "Núbia",
+    "phone": "82982237086",
+    "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+    "category": "Faxineira",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true
+  },
+  {
+    "id": 13,
+    "name": "meusservico",
+    "description": "meusservico",
+    "status": "development",
+    "version": "1.0.1",
+    "title": "Alisson",
+    "phone": "82994148971",
+    "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+    "category": "Ar-condicionado",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true
+  },
+  {
+    "id": 14,
+    "name": "meusservico",
+    "description": "meusservico",
+    "status": "development",
+    "version": "1.0.1",
+    "title": "Ary Pedro",
+    "phone": "82999174016",
+    "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+    "category": "Social Mídia",
+    "isEnableLogin": false,
+    "isBottomNavVisible": true
   }
+],
+"profile": {
+  "name": "typicode"
+}
 }
