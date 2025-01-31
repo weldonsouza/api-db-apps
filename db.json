@@ -230,58 +230,84 @@
        }
      ]
    },
- {
-  "id": 9,
-  "name": "meusservico",
-  "description": "meusservico",
-  "status": "development",
-  "version": "1.0.1",
-  "title": "Luiz Anselmo",
-  "phone": "82996703421",
-  "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-  "category": "Encanador",
-  "isEnableLogin": false,
-  "isBottomNavVisible": true
-},
-{
-  "id": 10,
-  "name": "meusservico",
-  "description": "meusservico",
-  "status": "development",
-  "version": "1.0.1",
-  "title": "Izaque",
-  "phone": "82994448105",
-  "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-  "category": "Pintor",
-  "isEnableLogin": false,
-  "isBottomNavVisible": true
-},
-{
-  "id": 11,
-  "name": "meusservico",
-  "description": "meusservico",
-  "status": "development",
-  "version": "1.0.1",
-  "title": "Yann Pinto",
-  "phone": "82993133197",
-  "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-  "category": "Pintor",
-  "isEnableLogin": false,
-  "isBottomNavVisible": true
-},
-{
-  "id": 12,
-  "name": "meusservico",
-  "description": "meusservico",
-  "status": "development",
-  "version": "1.0.1",
-  "title": "Carlos",
-  "phone": "82993133197",
-  "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-  "category": "Encanador",
-  "isEnableLogin": false,
-  "isBottomNavVisible": true
-}
+  {
+      "id": 9,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "development",
+      "version": "1.0.1",
+      "title": "Ninho WF Planejados",
+      "phone": "82993985830",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Marceneiro",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
+    },
+    {
+      "id": 10,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "development",
+      "version": "1.0.1",
+      "title": "Izaque",
+      "phone": "82996897133",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Gesseiro",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
+    },
+    {
+      "id": 11,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "development",
+      "version": "1.0.1",
+      "title": "Val",
+      "phone": "82993890008",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Serviços Gerais",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
+    },
+    {
+      "id": 12,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "development",
+      "version": "1.0.1",
+      "title": "Núbia",
+      "phone": "82982237086",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Faxineira",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
+    },
+    {
+      "id": 13,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "development",
+      "version": "1.0.1",
+      "title": "Alisson",
+      "phone": "82994148971",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Ar-condicionado",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
+    },
+    {
+      "id": 14,
+      "name": "meusservico",
+      "description": "meusservico",
+      "status": "development",
+      "version": "1.0.1",
+      "title": "Ary Pedro",
+      "phone": "82999174016",
+      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
+      "category": "Social Mídia",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true
+    }
   ],
   "profile": {
     "name": "typicode"
