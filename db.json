@@ -201,7 +201,7 @@
       "description": "klubs",
       "status": "development",
       "version": "1.0.1",
-      "url": "https://www.klubs.com.br/",
+      "url": "https://www.guiaobaladeiro.com.br/",
       "isEnableLogin": false,
       "isBottomNavVisible": true,
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
@@ -240,32 +240,6 @@
       "phone": "82993985830",
       "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
       "category": "Marceneiro",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true
-    },
-    {
-      "id": 10,
-      "name": "meusservico",
-      "description": "meusservico",
-      "status": "development",
-      "version": "1.0.1",
-      "title": "Izaque",
-      "phone": "82996897133",
-      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-      "category": "Gesseiro",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true
-    },
-    {
-      "id": 11,
-      "name": "meusservico",
-      "description": "meusservico",
-      "status": "development",
-      "version": "1.0.1",
-      "title": "Val",
-      "phone": "82993890008",
-      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-      "category": "Serviços Gerais",
       "isEnableLogin": false,
       "isBottomNavVisible": true
     }
