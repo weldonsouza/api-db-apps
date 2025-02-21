@@ -242,23 +242,23 @@
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
       "menu": [
         {
-          "url": "https://samsolei.lojavirtualnuvem.com.br/",
+          "url": "",
           "label": "Home",
           "image": "botao-home"
         },
         {
-          "url": "https://samsolei.lojavirtualnuvem.com.br/account/login/",
+          "url": "",
           "target": "_blank",
           "label": "Sacola",
           "image": "sacola"
         },
         {
-          "url": "https://samsolei.lojavirtualnuvem.com.br/search/?q=",
+          "url": "",
           "label": "Filtro",
           "image": "filtro"
         },
         {
-          "url": "https://samsolei.lojavirtualnuvem.com.br/trocas-e-devolucoes/",
+          "url": "",
           "target": "_blank",
           "label": "Suporte",
           "image": "contato"
