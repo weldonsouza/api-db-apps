@@ -161,7 +161,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "inovazap",
       "description": "inovazap",
       "status": "development",
@@ -196,7 +196,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "klubs",
       "description": "klubs",
       "status": "development",
@@ -230,8 +230,43 @@
         }
       ]
     },
+        {
+      "id": 10,
+      "name": "samsolei",
+      "description": "samsolei",
+      "status": "development",
+      "version": "1.0.1",
+      "url": "https://samsolei.lojavirtualnuvem.com.br/",
+      "isEnableLogin": false,
+      "isBottomNavVisible": true,
+      "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+      "menu": [
+        {
+          "url": "https://samsolei.lojavirtualnuvem.com.br/",
+          "label": "Home",
+          "image": "botao-home"
+        },
+        {
+          "url": "https://samsolei.lojavirtualnuvem.com.br/",
+          "target": "_blank",
+          "label": "Sacola",
+          "image": "sacola"
+        },
+        {
+          "url": "https://samsolei.lojavirtualnuvem.com.br/",
+          "label": "Filtro",
+          "image": "filtro"
+        },
+        {
+          "url": "https://samsolei.lojavirtualnuvem.com.br/",
+          "target": "_blank",
+          "label": "Suporte",
+          "image": "contato"
+        }
+      ]
+    },
     {
-      "id": 9,
+      "id": 11,
       "name": "meusservico",
       "description": "meusservico",
       "status": "development",
