@@ -258,7 +258,7 @@
           "image": "pessoa"
         },
         {
-          "url": "",
+          "url": "https://pub.dev/packages/flutter_lints",
           "target": "_blank",
           "label": "Beleza",
           "image": "sacolas-de-compras"
