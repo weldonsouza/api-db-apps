@@ -247,18 +247,18 @@
           "image": "botao-home"
         },
         {
-          "url": "https://samsolei.lojavirtualnuvem.com.br/produtos-para-casa/",
+          "url": "https://samsolei.lojavirtualnuvem.com.br/produtos/",
           "target": "_blank",
           "label": "Sacola",
           "image": "sacola"
         },
         {
-          "url": "https://samsolei.lojavirtualnuvem.com.br/produtos/",
+          "url": "",
           "label": "Filtro",
           "image": "filtro"
         },
         {
-          "url": "https://samsolei.lojavirtualnuvem.com.br/trocas-e-devolucoes/",
+          "url": "",
           "target": "_blank",
           "label": "Suporte",
           "image": "contato"
