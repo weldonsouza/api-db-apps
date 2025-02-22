@@ -249,13 +249,13 @@
         {
           "url": "https://samsolei.lojavirtualnuvem.com.br/produtos/",
           "target": "_blank",
-          "label": "Sacola",
-          "image": "sacola"
+          "label": "Produtos",
+          "image": "filtro"
         },
         {
           "url": "https://samsolei.lojavirtualnuvem.com.br/quem-somos/",
-          "label": "Filtro",
-          "image": "filtro"
+          "label": "pessoa",
+          "image": "Quem somos"
         },
         {
           "url": "",
