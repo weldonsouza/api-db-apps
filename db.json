@@ -258,7 +258,8 @@
           "image": "pessoa"
         },
         {
-          "url": "https://samsolei.lojavirtualnuvem.com.br/account/login/",
+          "url": "https://samsolei.lojavirtualnuvem.com.br/quem-somos/",
+          "target": "_blank",
           "label": "Beleza",
           "image": "sacolas-de-compras"
         }
