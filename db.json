@@ -84,39 +84,6 @@
     },
     {
       "id": 5,
-      "name": "smartpro",
-      "description": "smartpro",
-      "status": "development",
-      "version": "1.0.0",
-      "url": "https://smartflixpro.com/br",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true,
-      "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
-      "menu": [
-        {
-          "url": "https://smartflixpro.com/br",
-          "label": "Home",
-          "image": "botao-home"
-        },
-        {
-          "url": "https://smartflixpro.com/br",
-          "label": "Pesquisar",
-          "image": "pesquisa"
-        },
-        {
-          "url": "https://smartflixpro.com/br",
-          "label": "Todos",
-          "image": "filtro"
-        },
-        {
-          "url": "https://smartflixpro.com/br",
-          "label": "Suporte",
-          "image": "contato"
-        }
-      ]
-    },
-    {
-      "id": 6,
       "name": "lojasintimos",
       "description": "lojasintimos",
       "status": "development",
@@ -151,7 +118,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "jmfood",
       "description": "jmfood",
       "status": "development",
@@ -186,7 +153,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "inovazap",
       "description": "inovazap",
       "status": "development",
@@ -221,7 +188,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "klubs",
       "description": "klubs",
       "status": "development",
@@ -256,7 +223,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "name": "samsolei",
       "description": "samsolei",
       "status": "development",
