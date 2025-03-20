@@ -290,19 +290,6 @@
         }
       ]
     },
-    {
-      "id": 11,
-      "name": "meusservico",
-      "description": "meusservico",
-      "status": "development",
-      "version": "1.0.1",
-      "title": "Ninho WF Planejados",
-      "phone": "82993985830",
-      "image": "https://static.vecteezy.com/ti/vetor-gratis/p1/2275847-avatar-masculino-perfil-icone-de-homem-caucasiano-sorridente-vetor.jpg",
-      "category": "Marceneiro",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true
-    }
   ],
   "profile": {
     "name": "typicode"
