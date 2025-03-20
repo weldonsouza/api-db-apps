@@ -23,6 +23,31 @@
       "status": "production",
       "version": "1.0.0",
       "url": "https://www.macaibainformatica.com.br/"
+      "isEnableLogin": false,
+      "isBottomNavVisible": true,
+      "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+      "menu": [
+        {
+          "url": "https://www.locmais.online/",
+          "label": "Home",
+          "image": "botao-home"
+        },
+        {
+          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao/qualquer-cidade",
+          "label": "Pesquisar",
+          "image": "pesquisa"
+        },
+        {
+          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao",
+          "label": "Todos",
+          "image": "filtro"
+        },
+        {
+          "url": "https://www.locmais.online/contato",
+          "label": "Suporte",
+          "image": "contato"
+        }
+      ]
     },
     {
       "id": 4,
