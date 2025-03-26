@@ -88,7 +88,7 @@
       "description": "lojasintimos",
       "status": "development",
       "version": "1.0.26",
-      "url": "https://lojasintimos.com.br",
+      "url": "https://intimos.loja.click/",
       "isEnableLogin": false,
       "isBottomNavVisible": true,
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
