@@ -99,18 +99,18 @@
           "image": "botao-home"
         },
         {
-          "url": "instagram://user?username=lojasintimos",
+          "url": "https://intimos.loja.click/login",
           "target": "_blank",
           "label": "Sacola",
           "image": "sacola"
         },
         {
-          "url": "https://lojasintimos.com.br",
+          "url": "https://intimos.loja.click/",
           "label": "Todos",
           "image": "filtro"
         },
         {
-          "url": "whatsapp://send?phone=5582994099926&text=Olá,%20gostaria%20de%20mais%20informações!",
+          "url": "https://intimos.loja.click/pagina/fale-conosco",
           "target": "_blank",
           "label": "Suporte",
           "image": "contato"
