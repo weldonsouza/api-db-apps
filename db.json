@@ -254,17 +254,8 @@
           "target": "_blank",
           "label": "Beleza",
           "image": "sacolas-de-compras"
-      },
-      {
-      "id": 10,
-      "name": "umbler",
-      "description": "samsolei",
-      "status": "development",
-      "version": "1.0.1",
-      "url": "https://app.umbler.com/",
-      "isEnableLogin": false,
-      "isBottomNavVisible": true,
-      "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
+        }
+      ]
     }
   ],
   "profile": {
