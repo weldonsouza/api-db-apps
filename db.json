@@ -265,30 +265,6 @@
       "isEnableLogin": false,
       "isBottomNavVisible": true,
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
-      "menu": [
-        {
-          "url": "https://app.umbler.com/",
-          "label": "Home",
-          "image": "botao-home"
-        },
-        {
-          "url": "https://app.umbler.com/criaapp.com.br/website",
-          "target": "_blank",
-          "label": "Produtos",
-          "image": "filtro"
-        },
-        {
-          "url": "https://account.umbler.com/profile?App=UmblerHosting&client_Id=app-hosting",
-          "label": "Empresa",
-          "image": "pessoa"
-        },
-        {
-          "url": "https://app.umbler.com/settings/history",
-          "target": "_blank",
-          "label": "Beleza",
-          "image": "sacolas-de-compras"
-        }
-      ]
     }
   ],
   "profile": {
