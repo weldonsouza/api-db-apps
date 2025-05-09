@@ -76,9 +76,9 @@
           "image": "filtro"
         },
         {
-          "url": "https://www.locmais.online/contato",
-          "label": "Suporte",
-          "image": "contato"
+          "url": "https://www.locmais.online/imoveis/novo",
+          "label": "Cliente",
+          "image": "pessoa"
         }
       ]
     },
