@@ -55,28 +55,28 @@
       "description": "Alugue Já",
       "status": "development",
       "version": "1.0.0",
-      "url": "https://www.locmais.online/",
+      "url": "https://meusservicospro.com.br/alugueja-catalago/index.html",
       "isEnableLogin": false,
       "isBottomNavVisible": true,
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
       "menu": [
         {
-          "url": "https://www.locmais.online/",
+          "url": "https://meusservicospro.com.br/alugueja-catalago/index.html",
           "label": "Home",
           "image": "botao-home"
         },
         {
-          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao/qualquer-cidade",
+          "url": "https://meusservicospro.com.br/alugueja-catalago/index.html",
           "label": "Pesquisar",
           "image": "pesquisa"
         },
         {
-          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao",
+          "url": "https://meusservicospro.com.br/alugueja-catalago/index.html",
           "label": "Todos",
           "image": "filtro"
         },
         {
-          "url": "https://www.locmais.online/me",
+          "url": "https://meusservicospro.com.br/alugueja-catalago/index.html",
           "label": "Cliente",
           "image": "pessoa"
         }
