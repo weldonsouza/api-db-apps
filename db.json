@@ -76,7 +76,7 @@
           "image": "filtro"
         },
         {
-          "url": "https://www.alugja.site/contato",
+          "url": "https://www.alugja.site/login?&callback=callBackLogin",
           "label": "Cliente",
           "image": "pessoa"
         }
