@@ -94,23 +94,23 @@
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
       "menu": [
         {
-          "url": "https://intimos.loja.click/",
+          "url": "https://siteintimos.lojaintegrada.com.br/",
           "label": "Home",
           "image": "botao-home"
         },
         {
-          "url": "https://intimos.loja.click/login",
+          "url": "https://siteintimos.lojaintegrada.com.br/carrinho/index",
           "target": "_blank",
           "label": "Sacola",
           "image": "sacola"
         },
         {
-          "url": "https://intimos.loja.click/",
+          "url": "https://siteintimos.lojaintegrada.com.br/buscar?q=",
           "label": "Todos",
           "image": "filtro"
         },
         {
-          "url": "https://intimos.loja.click/pagina/fale-conosco",
+          "url": "https://siteintimos.lojaintegrada.com.br/#contato",
           "target": "_blank",
           "label": "Suporte",
           "image": "contato"
