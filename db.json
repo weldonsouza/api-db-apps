@@ -55,28 +55,28 @@
       "description": "Alugue Já",
       "status": "development",
       "version": "1.0.0",
-      "url": "https://www.alugja.site",
+      "url": "https://lanselmo.github.io/manutencao/manutencao.html",
       "isEnableLogin": false,
       "isBottomNavVisible": true,
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
       "menu": [
         {
-          "url": "https://www.alugja.site",
+          "url": "https://lanselmo.github.io/manutencao/manutencao.html",
           "label": "Home",
           "image": "botao-home"
         },
         {
-          "url": "https://www.alugja.site/imoveis-para-alugar-para-locacao",
+          "url": "https://lanselmo.github.io/manutencao/manutencao.html",
           "label": "Pesquisar",
           "image": "pesquisa"
         },
         {
-          "url": "https://www.alugja.site/imoveis-para-alugar-para-locacao/qualquer-cidade",
+          "url": "https://lanselmo.github.io/manutencao/manutencao.html",
           "label": "Todos",
           "image": "filtro"
         },
         {
-          "url": "https://www.alugja.site/login?&callback=callBackLogin",
+          "url": "https://lanselmo.github.io/manutencao/manutencao.html",
           "label": "Cliente",
           "image": "pessoa"
         }
