@@ -151,6 +151,14 @@
           "image": "contato"
         }
       ]
+    },
+    {
+      "id": 7,
+      "name": "veriqs",
+      "description": "veriqs",
+      "status": "development",
+      "version": "1.0.4",
+      "url": ""
     }
   ],
   "profile": {
