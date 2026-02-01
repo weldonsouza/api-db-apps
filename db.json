@@ -156,8 +156,8 @@
       "id": 7,
       "name": "veriqs",
       "description": "veriqs",
-      "status": "development",
-      "version": "1.0.4",
+      "status": "production",
+      "version": "1.0.7",
       "url": ""
     }
   ],
