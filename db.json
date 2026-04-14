@@ -38,6 +38,11 @@
           "image": "pesquisa"
         },
         {
+          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao/qualquer-cidade",
+          "label": "",
+          "image": "nav_tags"
+        },
+        {
           "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao",
           "label": "Todos",
           "image": "filtro"
