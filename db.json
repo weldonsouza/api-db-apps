@@ -16,36 +16,38 @@
       "version": "1.0.0",
       "url": ""
     },
-    {
-      "id": 3,
-      "name": "cria_app",
-      "description": "Cria App",
-      "status": "production",
-      "version": "1.0.0",
-      "url": "",
+   {
+      "id": 24,
+      "name": "samsolei",
+      "description": "samsolei",
+      "status": "development",
+      "version": "1.0.1",
+      "url": "https://samsolei.com.br/",
       "isEnableLogin": false,
       "isBottomNavVisible": true,
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
       "menu": [
         {
-          "url": "https://www.locmais.online/",
+          "url": "https://samsolei.com.br/",
           "label": "Home",
           "image": "botao-home"
         },
         {
-          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao/qualquer-cidade",
-          "label": "Pesquisar",
-          "image": "pesquisa"
-        },
-        {
-          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao",
-          "label": "Todos",
+          "url": "https://samsolei.com.br/produtos/",
+          "target": "_blank",
+          "label": "Produtos",
           "image": "filtro"
         },
         {
-          "url": "https://www.locmais.online/contato",
-          "label": "Suporte",
-          "image": "contato"
+          "url": "https://samsolei.com.br/quem-somos/",
+          "label": "Empresa",
+          "image": "pessoa"
+        },
+        {
+          "url": "https://samsolei.com.br/account/login/",
+          "target": "_blank",
+          "label": "Beleza",
+          "image": "sacolas-de-compras"
         }
       ]
     },
