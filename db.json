@@ -59,7 +59,7 @@
       "version": "1.0.0",
       "url": "www.alugueja.fyi",
       "isEnableLogin": false,
-      "isBottomNavVisible": true,
+      "isBottomNavVisible": false,
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
       "menu": [
         {
