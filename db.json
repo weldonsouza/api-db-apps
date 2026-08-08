@@ -57,7 +57,7 @@
       "description": "Alugue Já",
       "status": "development",
       "version": "1.0.0",
-      "url": "https://www.alugja.site",
+      "url": "www.alugueja.fyi",
       "isEnableLogin": false,
       "isBottomNavVisible": true,
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
@@ -68,22 +68,22 @@
           "image": "botao-home"
         },
         {
-          "url": "https://www.alugja.site/imoveis-para-alugar-para-locacao",
+          "url": "https://www.alugueja.fyi/buscar",
           "label": "Pesquisar",
           "image": "pesquisa"
         },
          {
-          "url": "https://www.locmais.online/imoveis-para-alugar-para-locacao/qualquer-cidade",
-          "label": "https://www.alugja.site",
+          "url": "https://www.alugueja.fyi/anunciante",
+          "label": "Adicionar",
           "image": "botao-adicionar"
         },
         {
-          "url": "https://www.alugja.site/imoveis-para-alugar-para-locacao/qualquer-cidade",
+          "url": "https://www.alugueja.fyi/buscar",
           "label": "Todos",
           "image": "filtro"
         },
         {
-          "url": "https://www.alugja.site/login?&callback=callBackLogin",
+          "url": "https://www.alugueja.fyi/conta",
           "label": "Cliente",
           "image": "pessoa"
         }
