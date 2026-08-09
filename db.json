@@ -61,7 +61,33 @@
       "isEnableLogin": false,
       "isBottomNavVisible": false,
       "evaluateJavascript": "document.querySelectorAll('input, textarea').forEach(function(input) {input.addEventListener('focus', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'focus');});input.addEventListener('blur', function() {window.flutter_inappwebview.callHandler('inputFocusHandler', 'blur');});});",
-      "menu": []
+      "menu": [
+        {
+          "url": "https://www.alugueja.fyi/",
+          "label": "Home",
+          "image": "botao-home"
+        },
+        {
+          "url": "https://www.alugueja.fyi/buscar",
+          "label": "Pesquisar",
+          "image": "pesquisa"
+        },
+         {
+          "url": "https://www.alugueja.fyi/anunciante",
+          "label": "Adicionar",
+          "image": "botao-adicionar"
+        },
+        {
+          "url": "https://www.alugueja.fyi/buscar",
+          "label": "Todos",
+          "image": "filtro"
+        },
+        {
+          "url": "https://www.alugueja.fyi/conta",
+          "label": "Cliente",
+          "image": "pessoa"
+        }
+      ]
     },
     {
       "id": 5,
